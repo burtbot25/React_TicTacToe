@@ -1,5 +1,5 @@
 # React_TicTacToe
 
-Final code after completing the follow tutorial:
+Final code after completing the following tutorial:
 
 https://reactjs.org/tutorial/tutorial.html
