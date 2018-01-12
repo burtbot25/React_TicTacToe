@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game made using the React.js framework.
 
-Using the following tutorial https://reactjs.org/tutorial/tutorial.html as well as knowledge from completing the React.js lesson on codecademy.com, I learned and familiarized myself with the following:
+Using the following tutorial https://reactjs.org/tutorial/tutorial.html as well as knowledge from completing the React.js lesson on http://www.codecademy.com, I learned and familiarized myself with the following:
   - The basics of the React.js framework
   - Create React applications using component classes and instances
   - Use the ReactDOM.render() function to render components and output
